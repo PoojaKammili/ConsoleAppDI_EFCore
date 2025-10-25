@@ -1,0 +1,18 @@
+#visual studio files 
+
+.vs/
+*.user
+*.suo
+
+#build folders
+bin/
+obj/
+Release/
+Debug/
+
+#logs and database
+*.log
+*.db
+
+#Migrations
+Migrations/
